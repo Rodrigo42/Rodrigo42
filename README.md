@@ -20,7 +20,7 @@
   
 
 
-<img align="center" alt="Bonfire" height="546" width="546" src="https://github-readme-stats.vercel.app/api?username=Rodrigo42&show_icons=true&theme=radical">    
+<img align="center" alt="Bonfire" height="546" width="546" src="https://i.redd.it/xte6gka2ghj91.gif">    
 
 ##### Aproveite a jornada
 
