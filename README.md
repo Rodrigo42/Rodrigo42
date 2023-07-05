@@ -4,7 +4,7 @@
 
 🧑‍💻 Sou aluno do curso de analise e desenvolvimento de sistemas da FIAP ![FIAP](https://www.fiap.com.br/wp-content/themes/fiap2016/images/favicon.ico).  
 
-🖥️ Ja dei maus primeiros passos nas seguintes linguagens e tecnologias: 
+🖥️ Ja dei meus primeiros passos nas seguintes linguagens e tecnologias: 
 <div style="display: inline_block">
 <!-- <br> -->
   <img align="center" alt="Rod-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
