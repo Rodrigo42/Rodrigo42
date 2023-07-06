@@ -7,7 +7,7 @@
     * Atualmente estou trabalhando em:
         * Desenvolvendo uma aplicação de controle financeiro, a primeira versão do site já esta no repositório.
 
-  <a url="https://www.linkedin.com/in/rodrigo-inacio-a2053785/"><img align="center" alt="Rod-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a src="https://www.linkedin.com/in/rodrigo-inacio-a2053785/"><img align="center" alt="Rod-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 #####
