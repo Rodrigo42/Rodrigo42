@@ -3,6 +3,14 @@
 ##### Estou estou trilhando meu caminho de dev e aqui voce pode acompanahr um pouco do que eu tenho feito.
 
 🧑‍💻 Sou aluno do curso de analise e desenvolvimento de sistemas da FIAP ![FIAP](https://www.fiap.com.br/wp-content/themes/fiap2016/images/favicon.ico).  
+    * 🧑🏻‍🎓 Estou no 1º semestre
+    * Atualmente estou trabalhando em:
+        * Desenvolvendo uma aplicação de controle financeiro, a primeira versão do site já esta no repositório.
+
+<buton>https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white<a>https://www.linkedin.com/in/rodrigo-inacio-a2053785/</a></button>
+#####
+
+
 
 🖥️ Ja dei meus primeiros passos nas seguintes linguagens e tecnologias: 
 <div style="display: inline_block">
