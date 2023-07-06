@@ -18,11 +18,11 @@
 🖥️ Ja dei meus primeiros passos nas seguintes linguagens e tecnologias: 
 <div style="display: inline_block">
 <!-- <br> -->
-  <img align="center" alt="Rod-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rod-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rod-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rod-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rod-Bootstrap" height="30" width="40" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png">  
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"</a><img align="center" alt="Rod-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  <a href="https://www.python.org/"><img align="center" alt="Rod-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+  <a href="https://www.w3schools.com/html/default.asp"><img align="center" alt="Rod-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+  <a href="https://www.w3schools.com/css/default.asp"><img align="center" alt="Rod-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+  <a href="https://getbootstrap.com/"><img align="center" alt="Rod-Bootstrap" height="30" width="40" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"></a>
   
 </div>  
 
