@@ -24,7 +24,7 @@
   <a href="https://www.w3schools.com/html/default.asp"><img align="center" alt="Rod-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://www.w3schools.com/css/default.asp"><img align="center" alt="Rod-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://getbootstrap.com/"><img align="center" alt="Rod-Bootstrap" height="30" width="40" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"></a>
-  <a href="https://www.oracle.com/br/java/"><img align="center" alt="Rod-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.sv"></a>
+  <a href="https://www.oracle.com/br/java/"><img align="center" alt="Rod-Java" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg"></a>
   
 </div>
 
