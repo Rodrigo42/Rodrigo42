@@ -4,10 +4,10 @@
 
 🧑‍💻 Sou aluno do curso de analise e desenvolvimento de sistemas da FIAP ![FIAP](https://www.fiap.com.br/wp-content/themes/fiap2016/images/favicon.ico).  
   
-* 🧑🏻‍🎓 2º semestre concluído.
+* 🧑🏻‍🎓 3º semestre.
 * Atualmente estou trabalhando em:  
    * Concluí meu projeto de uma aplicação web de controle financeiro para monitorar gastos e entradas.
-   * Aprendendo Java, Python e Orientação a objetos
+   * Aprendendo Java, Kotlin e Orientação a objetos
 
   <a href="https://www.linkedin.com/in/rodrigo-inacio-a2053785/"><img align="center" alt="Rod-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
