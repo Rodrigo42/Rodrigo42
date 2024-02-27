@@ -18,13 +18,15 @@
 
 🖥️ Ja dei meus primeiros passos nas seguintes linguagens e tecnologias: 
 <div style="display: inline_block">
-<!-- <br> -->
+<!-- <br> -->  
+  <a href="https://www.oracle.com/br/java/"><img align="center" alt="Rod-Java" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg"></a>
+  <a href="https://kotlinlang.org/docs/home.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /></a>       
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="Rod-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a href="https://www.python.org/"><img align="center" alt="Rod-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
   <a href="https://www.w3schools.com/html/default.asp"><img align="center" alt="Rod-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://www.w3schools.com/css/default.asp"><img align="center" alt="Rod-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://getbootstrap.com/"><img align="center" alt="Rod-Bootstrap" height="30" width="40" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"></a>
-  <a href="https://www.oracle.com/br/java/"><img align="center" alt="Rod-Java" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg"></a>
+
   
 </div>
 
