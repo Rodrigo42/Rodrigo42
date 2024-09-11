@@ -3,11 +3,11 @@
 ##### Estou estou trilhando meu caminho de dev e aqui voce pode acompanahr um pouco do que eu tenho feito.
 
 🧑‍💻 Sou aluno do curso de analise e desenvolvimento de sistemas da FIAP ![FIAP](https://www.fiap.com.br/wp-content/themes/fiap2016/images/favicon.ico).  
-  
-* 🧑🏻‍🎓 3º semestre.
-* Atualmente estou trabalhando em:  
-   * Concluí meu projeto de uma aplicação web de controle financeiro para monitorar gastos e entradas.
+    
+* 🧑🏻‍🎓 4º semestre.
+* Atualmente estou trabalhando em:   
    * Aprendendo Java, Kotlin e Orientação a objetos
+   * 
 
   <a href="https://www.linkedin.com/in/rodrigo-inacio-a2053785/"><img align="center" alt="Rod-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
