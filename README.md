@@ -1,6 +1,6 @@
 ### Olá, eu sou Rodrigo Inacio 👋
 
-##### Estou estou trilhando meu caminho de dev e aqui voce pode acompanahr um pouco do que eu tenho feito.
+##### Estou estou trilhando meu caminho de dev e aqui voce pode acompanhar um pouco do que eu tenho feito.
 
 🧑‍💻 Sou aluno do curso de analise e desenvolvimento de sistemas da FIAP ![FIAP](https://www.fiap.com.br/wp-content/themes/fiap2016/images/favicon.ico).  
     
