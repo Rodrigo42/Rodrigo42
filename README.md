@@ -2,12 +2,13 @@
 
 ##### Estou estou trilhando meu caminho de dev e aqui voce pode acompanhar um pouco do que eu tenho feito.
 
-🧑‍💻 Sou aluno do curso de analise e desenvolvimento de sistemas da FIAP ![FIAP](https://www.fiap.com.br/wp-content/themes/fiap2016/images/favicon.ico).  
+🧑‍💻 Sou formado em analise e desenvolvimento de sistemas pela FIAP ![FIAP](https://www.fiap.com.br/wp-content/themes/fiap2016/images/favicon.ico).  
+
+🔧 Trabalho como Técnico de Engenharia de Qualidade
     
-* 🧑🏻‍🎓 4º semestre.
 * Atualmente estou trabalhando em:   
-   * Aprendendo Java, Kotlin e Orientação a objetos
-   * 
+   * Aprendendo Java e Orientação a objetos
+   * Aprendendo Automação Selenium.
 
   <a href="https://www.linkedin.com/in/rodrigo-inacio-a2053785/"><img align="center" alt="Rod-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
