@@ -4,7 +4,7 @@
 
 🧑‍💻 Sou formado em analise e desenvolvimento de sistemas pela FIAP ![FIAP](https://www.fiap.com.br/wp-content/themes/fiap2016/images/favicon.ico).  
 
-🔧 Trabalho como Técnico de Engenharia de Qualidade
+🔧 Trabalho como Analista de Engenharia de Qualidade Junior
     
 * Atualmente estou trabalhando em:   
    * Aprendendo Java e Orientação a objetos
