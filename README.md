@@ -7,8 +7,9 @@
 🔧 Trabalho como Analista de Engenharia de Qualidade Junior
     
 * Atualmente estou trabalhando em:   
-   * Aprendendo Java e Orientação a objetos
-   * Aprendendo Automação Selenium.
+   * Aprendendo Java e Python
+   * Aprendendo Automação Selenium e Robot Framework.
+   * Aprendendo Vue.JS
 
   <a href="https://www.linkedin.com/in/rodrigo-inacio-a2053785/"><img align="center" alt="Rod-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
